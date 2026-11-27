@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+zaara_world.db
+.streamlit/secrets.toml
+.env
