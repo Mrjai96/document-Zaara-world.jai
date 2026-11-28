@@ -23,8 +23,8 @@ Open the local URL shown in the terminal (usually http://localhost:8501).
 
 On the first run, the app creates a starter administrator:
 
-- Email: `Mrjai3495@gmail.com`
-- Password: `Mrjai@naani96`
+- Email: `admin@zaaraworld.com.`
+- Password: `changeme123!`
 
 **Immediately change this password** in Settings. For deployment, set environment variables / Streamlit secrets:
 - `ZAARA_ADMIN_EMAIL`
